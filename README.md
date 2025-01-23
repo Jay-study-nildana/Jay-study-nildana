@@ -30,5 +30,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jay-study-nildana&show_icons=true&locale=en" alt="jay-study-nildana" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jay-study-nildana&" alt="jay-study-nildana" /></p>
-
