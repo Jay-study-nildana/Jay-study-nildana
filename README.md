@@ -5,9 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jay-study-nildana" alt="jay-study-nildana" /></a> </p>
 
-- 🔭 Hire me on [Upwork](https://www.upwork.com/fl/vijayasimhabr)
+- 🌱 Microsoft Certification : Most Valuable Professional (2014). [Verify it here](https://www.credly.com/badges/cec537a7-2e68-4f37-9f4d-c028e6828085)
 
-- 🌱 I’m currently chasing after **AZ-900 Certification**
+- 🌱 Microsoft Certification : Azure Fundamentals AZ-900 (2025). [Verify it here](https://learn.microsoft.com/en-us/users/codingtutorjay/credentials/c18a87f5ca2658f4)
+
+- 🌱 I’m currently chasing after **DP-900 Certification**
+
+- 🔭 Hire me on [Upwork](https://www.upwork.com/fl/vijayasimhabr)
 
 - 👯 Hire me on [Fiverr](https://www.fiverr.com/jay_codeguy)
 
