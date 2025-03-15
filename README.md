@@ -9,7 +9,7 @@
 
 - 🌱 Microsoft Certification : Azure Fundamentals AZ-900 (2025). [Verify it here](https://learn.microsoft.com/en-us/users/codingtutorjay/credentials/c18a87f5ca2658f4)
 
-- 🌱 I’m currently chasing after **DP-900 Certification**
+- 🌱 I’m currently chasing after **DP-900 Certification** (Exam Passed. Waiting for Cert to arrive :) )
 
 - 🌱 I’m currently working on the project **Azure C Sharp Corporate Training Syllabus**. [GitHub Project Board](https://github.com/users/Jay-study-nildana/projects/7)
 
