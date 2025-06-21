@@ -9,6 +9,7 @@
 - 🌱 Microsoft Certification : Azure Fundamentals AZ-900 (2025). [Verify it here](https://learn.microsoft.com/api/credentials/share/en-us/codingtutorjay/C18A87F5CA2658F4?sharingId=B55551970B714E73)
 - 🌱 Microsoft Certification : Azure Fundamentals DP-900 (2025). [Verify it here](https://learn.microsoft.com/api/credentials/share/en-us/codingtutorjay/EAC73CAAD464B2B4?sharingId=B55551970B714E73)
 
+- 🌱 I’m currently chasing after **AI-900 Certification**
 - 🌱 I’m currently chasing after **AZ-204 Certification** 
 
 - 🌱 I’m currently working on the project **Azure C Sharp Corporate Training Syllabus**. [GitHub Project Board](https://github.com/users/Jay-study-nildana/projects/7)
