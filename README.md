@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jay (Vijayasimha BR)</h1>
-<h3 align="center">I am a coding tutor.</h3>
+<h3 align="center">I am an Azure Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jay-study-nildana&label=Profile%20views&color=0e75b6&style=flat" alt="jay-study-nildana" /> </p>
 
