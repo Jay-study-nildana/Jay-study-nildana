@@ -22,6 +22,8 @@
 - 👨‍💻 Visit my personal website [https://stories.thechalakas.com/](https://stories.thechalakas.com/)
 
 - 📝 I blog at [https://medium.com/@vijayasimhabr](https://medium.com/@vijayasimhabr)
+- 📝 follow me on my instagram (developer) [codingtutorjay](https://www.instagram.com/codingtutorjay)
+- 📝 follow me on my instagram (travel) [jay_instogrm](https://www.instagram.com/jay_instogrm)
 
 - 💬 Ask me about **JavaScript, C# .Net and Azure Essentials**
 
