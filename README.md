@@ -13,6 +13,8 @@
 
 - 🌱 I’m currently working on the project **Azure C Sharp Corporate Training Syllabus**. [GitHub Project Board](https://github.com/users/Jay-study-nildana/projects/7)
 
+- 🔭 Find me on [LinkedIn](https://www.linkedin.com/in/vijayasimha-br-4648b73b7/)
+  
 - 🔭 Hire me on [Upwork](https://www.upwork.com/fl/vijayasimhabr)
 
 - 👯 Hire me on [Fiverr](https://www.fiverr.com/jay_codeguy)
