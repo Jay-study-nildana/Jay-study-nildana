@@ -9,26 +9,18 @@
 - 🌱 Microsoft Certification : Azure Fundamentals AZ-900 (2025). [Verify it here](https://learn.microsoft.com/api/credentials/share/en-us/codingtutorjay/C18A87F5CA2658F4?sharingId=B55551970B714E73)
 - 🌱 Microsoft Certification : Azure Data Fundamentals DP-900 (2025). [Verify it here](https://learn.microsoft.com/api/credentials/share/en-us/codingtutorjay/EAC73CAAD464B2B4?sharingId=B55551970B714E73)
 - 🌱 Microsoft Certification : Azure AI Fundamentals AI-900 (2025). [Verify it here](https://learn.microsoft.com/api/credentials/share/en-us/codingtutorjay/7B4C0BB497B40F61?sharingId=B55551970B714E73)
-- 🌱 I’m currently chasing after **AZ-204 Certification** 
-
-- 🌱 I’m currently working on the project **Azure C Sharp Corporate Training Syllabus**. [GitHub Project Board](https://github.com/users/Jay-study-nildana/projects/7)
 
 - 🔭 Find me on [LinkedIn](https://www.linkedin.com/in/vijayasimha-br-4648b73b7/)
-  
 - 🔭 Hire me on [Upwork](https://www.upwork.com/fl/vijayasimhabr)
-
 - 👯 Hire me on [Fiverr](https://www.fiverr.com/jay_codeguy)
-
-- 🤝 Book a session on [Calendly](https://calendly.com/jaycodingtutor/30min)
-
 - 👨‍💻 Visit my personal website [https://stories.thechalakas.com/](https://stories.thechalakas.com/)
-
 - 📝 I blog at [https://medium.com/@vijayasimhabr](https://medium.com/@vijayasimhabr)
 - 📝 follow me on my instagram (developer) [codingtutorjay](https://www.instagram.com/codingtutorjay)
 - 📝 follow me on my instagram (travel) [jay_instogrm](https://www.instagram.com/jay_instogrm)
 
 - 💬 Ask me about **JavaScript, C# .Net and Azure Essentials**
 
+- 📫 How to reach me **jay@thechalakas.com**
 - 📫 How to reach me **vijayasimhabr@live.com**
 
 - 📄 Listen to my Podcast [https://stories.thechalakas.com/listen-to-podcast/](https://stories.thechalakas.com/listen-to-podcast/)
