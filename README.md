@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jay (Vijayasimha BR)</h1>
-<h3 align="center">Corporate Trainer and Coding Tutor with 4X Microsoft Certifications</h3>
+<h5 align="center">Currently pursuing my MBA at Mysore University, 2026 to 2028. Planning to continue in academia with PhD, and possible future plans for Post Doctoral studies as well. Hoping to dedicate the rest of my life to academia.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jay-study-nildana&label=Profile%20views&color=0e75b6&style=flat" alt="jay-study-nildana" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jay-study-nildana" alt="jay-study-nildana" /></a> </p>
+Focus Areas : Learning and Development, Psychology, Pscyhometrics. Rural Supply Management. Natural Resources Management.</h5>
 
 - 🌱 Microsoft Certification : Most Valuable Professional (2014). [Verify it here](https://www.credly.com/badges/cec537a7-2e68-4f37-9f4d-c028e6828085)
 - 🌱 Microsoft Certification : Azure Fundamentals AZ-900 (2025). [Verify it here](https://learn.microsoft.com/api/credentials/share/en-us/codingtutorjay/C18A87F5CA2658F4?sharingId=B55551970B714E73)
