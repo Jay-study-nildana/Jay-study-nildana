@@ -3,13 +3,14 @@
 
 Focus Areas : Learning and Development, Psychology, Pscyhometrics. Rural Supply Management. Natural Resources Management.</h5>
 
+<h5 align="center">Available for Collaboration to work on paper publications, field research as well as Academic Conference paper presentations </h5>
+
 - 🌱 Microsoft Certification : Most Valuable Professional (2014). [Verify it here](https://www.credly.com/badges/cec537a7-2e68-4f37-9f4d-c028e6828085)
 - 🌱 Microsoft Certification : Azure Fundamentals AZ-900 (2025). [Verify it here](https://learn.microsoft.com/api/credentials/share/en-us/codingtutorjay/C18A87F5CA2658F4?sharingId=B55551970B714E73)
 - 🌱 Microsoft Certification : Azure Data Fundamentals DP-900 (2025). [Verify it here](https://learn.microsoft.com/api/credentials/share/en-us/codingtutorjay/EAC73CAAD464B2B4?sharingId=B55551970B714E73)
 - 🌱 Microsoft Certification : Azure AI Fundamentals AI-900 (2025). [Verify it here](https://learn.microsoft.com/api/credentials/share/en-us/codingtutorjay/7B4C0BB497B40F61?sharingId=B55551970B714E73)
 
 - 🔭 Find me on [LinkedIn](https://www.linkedin.com/in/vijayasimha-br-4648b73b7/)
-- 🔭 Hire me on [Upwork](https://www.upwork.com/fl/vijayasimhabr)
 - 👨‍💻 Visit my personal website [https://stories.thechalakas.com/](https://stories.thechalakas.com/)
 - 📝 I blog at [https://medium.com/@vijayasimhabr](https://medium.com/@vijayasimhabr)
 - 📝 follow me on my instagram (developer) [codingtutorjay](https://www.instagram.com/codingtutorjay)
